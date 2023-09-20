@@ -1,4 +1,9 @@
 # Threat Modelling
+1. [Step 1 (Scope and Decomposition)](#step-1-scope-and-decomposition)
+2. Step 2 (Draw) 
+3. Step 3 (Analyse Drawings)
+4. Step 4 (Mitigate)
+5. Step 5 (Document) 
 ## Summary
 > "Threat modelling is a term applied to the techniques that are used to model and analyse technology systems and services to better understand how that system or service might be attacked or otherwise fail, and the measures or controls needed to manage the risk posed by such attacks or failings. Threat modelling techniques are best applied to inform the design and development phases of a technology system or service life cycle” [NCSC](https://www.ncsc.gov.uk/collection/risk-management/threat-modelling)
 
