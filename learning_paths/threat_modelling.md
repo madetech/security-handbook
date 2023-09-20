@@ -26,11 +26,57 @@ The security feedback loop starts with threat identification. Once threats have 
 
 Threat modelling is part of the design phase, so it should ideally be done before any code is written (early and often).
 
+## Threat modelling process
 
+### Scope -> determine what is the scope of the threat model (whole feature, subsystem etc)
 
+### Draw -> draw a simple diagram with team of whatever it is that is being threat model.
 
+### Analyse -> analyse the individual threats.
 
+### Mitigation -> how to make the threats go away.
 
+### Document -> write down what was discussed and found out during process.
+
+#### Remember
+> Threat modelling is not an exact science; different people will come up with different potential threats.
+>
+> Threat model will never be complete; no such thing as perfect model but the process should help to expand thinking around what potential threats might be.
+>
+> Iterative process, rinse, and repeat.
+>
+> Reviewed at proper interval (the interval is determined by the team)
+
+ 
+## Tools 
+
+**Note:** the following list is not exhaustive and just provides examples of what could be used to threat model.
+- Whiteboarding
+- MS TM Tool
+- Irius risk
+
+ 
+
+Four questions approach to threat model (see also - [Threat Modelling Manfesto](https://www.threatmodelingmanifesto.org/))
+
+·      What are we building? (scope/draw)
+
+·      What can go wrong? (Analyse)
+
+·      What are we going to do about it? (Mitigate)
+
+·      Did we do a good job? (document)
+
+ 
+## Step 1 (Scope and Decomposition)
+
+## Step 2 (Draw) 
+
+## Step 3 (Analyse Drawings)
+
+## Step 4 (Mitigate)
+
+## Step 5 (Document) 
 
 ## Useful Links
 - [Threat Modelling Manifesto](https://www.threatmodelingmanifesto.org/) 
