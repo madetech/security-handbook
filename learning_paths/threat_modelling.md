@@ -19,8 +19,16 @@
 
 - Encourages a security mindset in team members such as engineers and developers.
 
-
 The following example provides a high level, simplification of what threat modelling is.
 
 ### Example
 > When you leave the house with a child to walk them to school. As you leave you see cars driving past, a dog barking in the street, the sun is beating down with intense heat. So, you hold the child’s hand to cross the road (this is identifying a threat from vehicles), you might apply sunscreen to yourself or the child to prevent sunburn (threat from the heat identified). You might try to avoid the barking dog as it seems aggressive (threat identified).
+
+## Security Feedback Loop
+Identifying potential threats ->  evaluate mitigations ->  change the design 
+
+![Security Feedback Loop](./diagrams/sec-feedback-loop.png)
+
+The security feedback loop starts with threat identification. Once threats have been identified we can progress to evaluating potential mitigations and engineering fixes. This is done by perhaps changing the design, removing components, or adding new functionality. The loop then starts again, identifying if threats still exist or if any new threats have now arisen. This is an infinite process loop, with each phase intended to strengthen a given solution.
+
+Threat modelling is part of the design phase, so it should ideally be done before any code is written (early and often).
