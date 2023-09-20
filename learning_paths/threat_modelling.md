@@ -74,6 +74,29 @@ Four questions approach to threat model (see also - [Threat Modelling Manfesto](
 
  
 ## Step 1 (Scope and Decomposition)
+- Choose Scope (recommended is feature or module level, start small) – focus on most important
+
+- Decompose into use cases to understand how the application is used ([OWASP Foundation - Decomposition](https://owasp.org/www-community/Threat_Modeling_Process#step-1-decompose-the-application))
+
+- Identifying entry points to see where a potential attacker could interact with the application.
+
+- Identifying assets, i.e. items or areas that the attacker would be interested in.
+
+- Identifying trust levels that represent the access rights that the application will grant to external entities. 
+### Identify users and actors
+For example: users, admins, attackers
+
+### Attack surface analysis
+[OWASP - Attack Surface Analysis](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)
+
+The concept that some given feature has several interfaces that can be used to send/receive data (which could potentially be attacked), also referred to as **the external attack surface**. Analysing this surface is part of the decomposition and identifying entry points phases of the process.
+
+The **internal attack surface** is likely to be much larger, more vulnerable, and will have users that are able access many parts of the system.
+
+For example: network protocols, web interface, command line interface, system daemon, administration access.
+
+> “Michael Howard at Microsoft and other researchers have developed a method for measuring the Attack Surface of an application, and to track changes to the Attack Surface over time, called the [Relative Attack Surface Quotient (RSQ)](https://www.cs.cmu.edu/~wing/publications/Howard-Wing03.pdf). Using this method you calculate an overall attack surface score for the system, and measure this score as changes are made to the system and to how it is deployed. (…) They calculate the Attack Surface as the sum of all entry and exit points, channels (...) and untrusted data elements. Then they apply a damage potential/effort ratio to these Attack Surface elements to identify high-risk areas.”
+
 
 ## Step 2 (Draw) 
 
