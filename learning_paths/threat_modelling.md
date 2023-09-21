@@ -145,7 +145,27 @@ Source: security journey
 
 ## Step 4 (Mitigate)
 
+|**Category**|**Compensation Control** |
+|--------|---------------------|
+|Spoofing|Strong Authentication|
+|Tampering|Encryption and hashing|
+|Repudiation|Logging and strong authentication|
+|Information Disclosure|Encryption|
+|Denial of Service|Site/product scalability|
+|Elevation of Privilege|Authorization|
+
+### Detailed Threat Mitigation Table
+![Threat Mitigation](./diagrams/threat-mitigation.jpg)
+
+image source: [Threat Modelling Process | OWASP Foundation](https://owasp.org/www-community/Threat_Modeling_Process#stride-threat--mitigation-techniques)
+
 ## Step 5 (Document) 
+- Add test cases based on discovered threats
+- Ensure there are mitigations for all threats
+
+### Did we do a good job?
+
+“Look at the documentation that you've created. Are there no threats? If there are no threats, the answer is no; we did not do a good enough job. Revisit that last question when it comes to the document. There's always at least one threat unless the product feature has no interfaces, and there's no way to communicate with it, and there's no way to update it. In this day and age, there's always some amount of threats that exist for anything.” - security journey
 
 ## Useful Links
 - [Threat Modelling Manifesto](https://www.threatmodelingmanifesto.org/) 
