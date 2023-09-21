@@ -36,15 +36,15 @@ Threat modelling is part of the design phase, so it should ideally be done befor
 
 ## Threat modelling process
 
-### Scope -> determine what is the scope of the threat model (whole feature, subsystem etc)
+- **Scope** -> determine what is the scope of the threat model (whole feature, subsystem etc)
 
-### Draw -> draw a simple diagram with team of whatever it is that is being threat model.
+- **Draw** -> draw a simple diagram with team of whatever it is that is being threat model.
 
-### Analyse -> analyse the individual threats.
+- **Analyse** -> analyse the individual threats.
 
-### Mitigation -> how to make the threats go away.
+- **Mitigation** -> how to make the threats go away.
 
-### Document -> write down what was discussed and found out during process.
+- **Document** -> write down what was discussed and found out during process.
 
 #### Remember
 > Threat modelling is not an exact science; different people will come up with different potential threats.
@@ -57,13 +57,10 @@ Threat modelling is part of the design phase, so it should ideally be done befor
 
  
 ## Tools 
-
 **Note:** the following list is not exhaustive and just provides examples of what could be used to threat model.
 - Whiteboarding
 - MS TM Tool
 - Irius risk
-
- 
 
 Four questions approach to threat model (see also - [Threat Modelling Manfesto](https://www.threatmodelingmanifesto.org/))
 
@@ -127,17 +124,17 @@ source - [Using attack trees to understand security risk](https://www.ncsc.gov.u
 
 Use STRIDE methodology (various types of threat) when analysing.
 
-·      Spoofing – pretending to be something else.
+·      **S**poofing – pretending to be something else.
 
-·      Tampering – Modification of data
+·      **T**ampering – Modification of data
 
-·      Repudiation – can something be changed without the system owner knowing about it.
+·      **R**epudiation – can something be changed without the system owner knowing about it.
 
-·      Information Disclosure – Leaking information that should be private.
+·      **I**nformation Disclosure – Leaking information that should be private.
 
-·      Denial of Service – Stopping something from working or responding.
+·      **D**enial of Service – Stopping something from working or responding.
 
-·      Elevation of privilege – Upgrading from user to administrator level access.
+·      **E**levation of privilege – Upgrading from user to administrator level access.
 
 ![DFD Example](./diagrams/dfd-example.png)
 
