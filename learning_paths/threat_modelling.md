@@ -99,6 +99,25 @@ For example: network protocols, web interface, command line interface, system da
 
 
 ## Step 2 (Draw) 
+### Draw a DFD (Data flow diagram)
+
+Example: [Threat Modeling Process | DFD](https://owasp.org/www-community/Threat_Modeling_Process#data-flow-diagrams) 
+
+Source: [Threat Modelling Process | OWASP Foundation](https://owasp.org/www-community/Threat_Modeling_Process )
+
+Individual elements of diagram – think about what each element on the DFD does.
+
+An alternative approach is [building an attack tree](https://www.ncsc.gov.uk/collection/risk-management/using-attack-trees-to-understand-cyber-security-risk).
+
+### Examples of an attack tree
+
+#### Example 1
+![Security Feedback Loop](./diagrams/attack-tree-01.png)
+
+#### Example 2
+![Security Feedback Loop](./diagrams/attack-tree-02.png)
+
+source - [Using attack trees to understand security risk](https://www.ncsc.gov.uk/collection/risk-management/using-attack-trees-to-understand-cyber-security-risk)
 
 ## Step 3 (Analyse Drawings)
 
