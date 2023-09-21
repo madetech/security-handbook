@@ -1,4 +1,7 @@
 # Threat Modelling
+
+[Summary](#summary)
+
 1. [Step 1 (Scope and Decomposition)](#step-1-scope-and-decomposition)
 2. [Step 2 (Draw)](#step-2-draw) 
 3. [Step 3 (Analyse Drawings)](#step-3-analyse-drawings)
