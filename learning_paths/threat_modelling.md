@@ -112,14 +112,36 @@ An alternative approach is [building an attack tree](https://www.ncsc.gov.uk/col
 ### Examples of an attack tree
 
 #### Example 1
-![Security Feedback Loop](./diagrams/attack-tree-01.png)
+![Attack Tree 01](./diagrams/attack-tree-01.png)
 
 #### Example 2
-![Security Feedback Loop](./diagrams/attack-tree-02.png)
+![Attack Tree 02](./diagrams/attack-tree-02.png)
 
 source - [Using attack trees to understand security risk](https://www.ncsc.gov.uk/collection/risk-management/using-attack-trees-to-understand-cyber-security-risk)
 
 ## Step 3 (Analyse Drawings)
+### Analyse the DFD
+
+Use STRIDE methodology (various types of threat) when analysing.
+
+·      Spoofing – pretending to be something else.
+
+·      Tampering – Modification of data
+
+·      Repudiation – can something be changed without the system owner knowing about it.
+
+·      Information Disclosure – Leaking information that should be private.
+
+·      Denial of Service – Stopping something from working or responding.
+
+·      Elevation of privilege – Upgrading from user to administrator level access.
+
+![DFD Example](./diagrams/dfd-example.png)
+
+### Threat prioritisation
+![Threat Prioritisation](./diagrams/threat-prioritisation.png)
+
+Source: security journey
 
 ## Step 4 (Mitigate)
 
