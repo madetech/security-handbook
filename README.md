@@ -1,6 +1,6 @@
 # 📖 Security Handbook
 ## FAQ
-- [How do I classify data correctly?]()
+- [How do I classify data correctly?](faq/how-do-I-classify-data-correctly.md)
 
 ## 🏫 Learning Paths
 - [Threat Modelling](learning_paths/threat_modelling.md)
