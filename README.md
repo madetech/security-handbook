@@ -4,6 +4,7 @@
 
 ## 🏫 Learning Paths
 - [Threat Modelling](learning_paths/threat_modelling.md)
+- [Security Journey](learning_paths/security_journey.md)
 
 ## 🗣️ Security COP talks (Made Tech internal only videos)
 - [A Cyber Security showcase by Arnie Armstrong](https://drive.google.com/file/d/1QOXis-2hGmafHxZ4VoQ3ni_qBKlh2O5N/view?usp=drive_link)
@@ -14,7 +15,7 @@
 
 
 ## 🌐 Learning Resources
-- [Security Journey]()
+- [Security Journey](https://madetech.securityjourney.com/)
 - [NCSC - Secure by Default](https://www.ncsc.gov.uk/information/secure-default)
 - [The cloud security principles - NCSC.GOV.UK ](https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles)
 - [Bow Tties and Attack Trees for Risk](https://www.2t-security.com/bow-ties-and-attack-trees-for-risk/)
