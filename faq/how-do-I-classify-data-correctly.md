@@ -8,7 +8,7 @@
 > moderate damage if compromised and must be defended against a broad range
 > of threat actors with differing capabilities using nuanced protective controls”
 
-> “In most cases there are limited to no negative consequences if OFFICIAL information is compromised. However, in some circumstances when OFFICIAL information contains sensitive information and is marked > -SENSITIVE, its unintended disclosure or compromise can lead to moderate damage (including to the UK’s longer-term strategic/economic position) and in exceptional circumstances it could lead to a threat > to life.” - GSC
+> “In most cases there are limited to no negative consequences if OFFICIAL information is compromised. However, in some circumstances when OFFICIAL information contains sensitive information and is marked -SENSITIVE, its unintended disclosure or compromise can lead to moderate damage (including to the UK’s longer-term strategic/economic position) and in exceptional circumstances it could lead to a threat to life.” - GSC
 
 # Can someone else classify the data for me?
 It is the responsibility of the Data Owner to classify the data.
@@ -31,8 +31,8 @@ It is then sensible to notify the Data Owner of your decision and reason, anothe
 # Further Guidance
 [GDS](https://dataarchitecture.blog.gov.uk/2018/06/29/data-governance/) states that:
 
-> “Data owners (also known as data custodians) are accountable for taking decisions relating to the data e.g. defining policies relating to the use of the data. They assess the sensitivity of the data > > they own and classify the data according to the various data protection categories supported by the architecture.
+> “Data owners (also known as data custodians) are accountable for taking decisions relating to the data e.g. defining policies relating to the use of the data. They assess the sensitivity of the data they own and classify the data according to the various data protection categories supported by the architecture.
 > 
-> One option is for each team involved with processing data to conduct self-assessments against agreed data principles and standards. The principles and standards would be defined and agreed by the data > architecture function, and informed by the need to comply with legislation (e.g. relating to data privacy) and ethical standards (relating to the use of data).”
+> One option is for each team involved with processing data to conduct self-assessments against agreed data principles and standards. The principles and standards would be defined and agreed by the data architecture function, and informed by the need to comply with legislation (e.g. relating to data privacy) and ethical standards (relating to the use of data).”
 
 **If it does look like OFFICIAL – and if you are happy the impact of breach or loss matches the descriptions above then that’s likely correct.**
