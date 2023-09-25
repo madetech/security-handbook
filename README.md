@@ -17,5 +17,6 @@
 - [Security Journey]()
 - [NCSC - Secure by Default](https://www.ncsc.gov.uk/information/secure-default)
 - [The cloud security principles - NCSC.GOV.UK ](https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles)
+- [Bow Tties and Attack Trees for Risk](https://www.2t-security.com/bow-ties-and-attack-trees-for-risk/)
 
 ## ⚒️ Principles, Processes, Standards and Tools
