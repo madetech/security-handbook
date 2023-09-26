@@ -19,5 +19,7 @@
 - [NCSC - Secure by Default](https://www.ncsc.gov.uk/information/secure-default)
 - [The cloud security principles - NCSC.GOV.UK ](https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles)
 - [Bow Ties and Attack Trees for Risk](https://www.2t-security.com/bow-ties-and-attack-trees-for-risk/)
+- [Intro to threat modelling by Cormac Brady](https://docs.google.com/presentation/d/1vWb-hk7vrF5S3yhEdCSpRS3CmHIB_hza0j2uEBxRDX0/edit#slide=id.g7f1ca5d94a_1_3)
+- [Intro to threat modelling by Lawrence Goldstein](https://docs.google.com/presentation/d/131kbL6icdycy7Ee-E5CfIil6OLrAOJ922O9e__ss-Fw/edit#slide=id.gc07cbd5c3a_0_0)
 
 ## ⚒️ Principles, Processes, Standards and Tools
