@@ -15,6 +15,7 @@
 
 
 ## 🌐 Learning Resources
+- [Secure development and deployment guidance](https://www.ncsc.gov.uk/collection/developers-collection)
 - [Security Journey](https://madetech.securityjourney.com/)
 - [NCSC - Secure by Default](https://www.ncsc.gov.uk/information/secure-default)
 - [The cloud security principles - NCSC.GOV.UK ](https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles)
