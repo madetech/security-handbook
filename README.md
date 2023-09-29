@@ -1,6 +1,7 @@
 # 📖 Security Handbook
 ## FAQ
 - [How do I classify data correctly?](faq/how-do-I-classify-data-correctly.md)
+- [What is a SIMP(Security Incident Management Plan](faq/what_is_a_simp.md)
 
 ## 🏫 Learning Paths
 - [Threat Modelling](learning_paths/threat_modelling.md)
