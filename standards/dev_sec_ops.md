@@ -62,3 +62,24 @@ Developers → Process → Tools → Run time
 
 - Promote a strong security culture.
 
+## Code Analysis
+### Interactive Application Testing (IAST)
+[IAST](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
+### White-box Testing
+[What is white-box testing](https://www.browserstack.com/guide/white-box-testing)
+#### Static Application Security Testing (SAST)
+[SAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+### Black-box Testing
+[What is black-box testing](https://www.browserstack.com/guide/black-box-testing)
+#### Dynamic Application Security Testing (DAST)
+[DAST](https://www.computer.org/publications/tech-news/trends/dynamic-application-security-testing)
+#### Fuzzing
+[Fuzzing](https://owasp.org/www-community/Fuzzing)
+### Pen Testing (penetration testing)
+- [CHECK Scheme](https://www.ncsc.gov.uk/information/check-penetration-testing)
+- [Penetration Testing](https://www.ncsc.gov.uk/guidance/penetration-testing)
+### Regression Testing
+[Regression Testing](https://cyrex.tech/security-explained-regression-testing/)
+## Useful Links
+- [Secure development and deployment guidance](https://cyrex.tech/security-explained-regression-testing/)
+
