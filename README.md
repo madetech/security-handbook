@@ -24,3 +24,4 @@
 - [Intro to threat modelling by Lawrence Goldstein](https://docs.google.com/presentation/d/131kbL6icdycy7Ee-E5CfIil6OLrAOJ922O9e__ss-Fw/edit#slide=id.gc07cbd5c3a_0_0)
 
 ## ⚒️ Principles, Processes, Standards and Tools
+- [DevSecOps](standards/dev_sec_ops.md)
