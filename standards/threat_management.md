@@ -63,6 +63,8 @@ Communicating and documenting your risks
 “The scope of assessment should define the boundaries of the existing system you are assessing or the new system that is being built, and your scope should clearly define all the assets that are to be contained within it”
 Also consider modelling the system scope with a scoping diagram.
 
+![Scoping Diagram](./images/scoping_diagram.png)
+
 2. Understand your assets and assess impact
 “To help with this you could build a register of assets that could include (for example) the equipment, systems, services, software, information and/or processes that are critical to the successful delivery of your business objectives.”
 Once you have identified a list “you should (. . .) assess what the impact would be should those assets be, in some way, compromised. “
