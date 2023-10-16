@@ -13,6 +13,53 @@ The respond function ensures an appropriate response to cyberattacks and other c
 
 
 ## Identify
+### Risk Management
+1. Establish the context for risk management
+- Think about the wider context in which you want to manage cyber risk.
+- Think about what your organisation does, and what it cares about. What are the business priorities and objectives?
+- Consider what governance structures are in place to manage other types of business risk. How does managing and communicating about cyber risk fit within those structures?
+- Ensure that the organisation has adequate policies approved and owned by the board that set out the risk management strategy for the organisation as a whole
+2. Define a scope for your risk assessment
+- Understand where you need to apply cyber risk management
+- Think about the range of technology, systems, services and information that your organisation uses and relies on to achieve its organisational goals and priorities
+- Remember to include elements that may be outside of your direct control, but are still part of your wider risk concerns
+- Don’t forget to think about how people interact with technology, systems and services. 
+3. Understand your assets and assess impact
+- Choose a cyber security risk management approach that is right for your organisation
+- Think about what approach to cyber security risk management, or mix of approaches, is right for your organisation
+- Understand that it is not always necessary to carry out a detailed risk assessment. For example, you could use a baseline such as Cyber Essentials to provide information on the basic controls needed to protect your organisation against most common internet-based attacks.
+- Different methods provide different perspectives on risk.
+4. Assess the threat
+5. Assess your vulnerability
+6. Estimate likelihood
+- Understand the risks you face and how to manage them
+- Use your chosen approach to identify, analyse, assess and prioritise risks and make decisions on how you are going to manage them
+- Ensure you are taking into consideration a wide variety in risk information, and seek out information from experts or trusted sources of information
+- Remember that if you have chosen to apply controls to manage risk, you should ensure that those controls are proportionate to the risk, usable and do not adversely affect the way the business works.
+7. Assess cyber security risk
+Communicating and documenting your risks
+- Communicate effectively about cyber risks and cyber risk management
+- Make sure that you effectively communicate your risk management approach to staff and decision makers
+- Ensure that you communicate cyber risk in a way that fits in with how your organisation talks about other types of risk (such as legal or financial risk).
+- Make sure you use meaningful language and fully explain any risk labels or scores you use. Using meaningless or poorly communicated labels can lead to misinterpretation and misunderstanding
+8. Prioritise risks and propose risk management action
+9. Develop a risk treatment plan
+- Apply and seek confidence in the controls you have chosen
+- Apply the controls you’ve chosen to mitigate risk to your systems and services
+- Ensure that you understand what risks remain after you have applied the controls.
+- Seek confidence that the package of mitigation measures you put in place have effectively managed the risk you identified, and consider how you will maintain that confidence as your systems are used into the future.
+10. Develop an assurance plan
+11. Continually iterate and improve
+- Continually improve your approach to risk management
+- Remember that risk management is an iterative process. Technology changes, as does the business environment and their associated threats and opportunities.
+- Regularly review your risks to ensure that the ways you have decided to manage them remain effective and appropriate
+- You will also need to review the methods, frameworks and tools you use for risk management to ensure they continue to be effective
+
+- https://www.ncsc.gov.uk/collection/10-steps/risk-management\
+- https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
+
+
+
 ## Protect
 ## Detect
 ## Respond
