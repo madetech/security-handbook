@@ -163,3 +163,17 @@ Make use of threat intelligence. Sign up to the Cyber Security Information Shari
 
 [NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
 
+
+## Reference links
+- https://attack.mitre.org/
+- https://www.ncsc.gov.uk/guidance/preventing-lateral-movement
+- https://www.ncsc.gov.uk/blog-post/what-exactly-should-we-be-logging
+- https://www.ncsc.gov.uk/guidance/preventing-lateral-movement
+- https://www.itgovernance.co.uk/blog/what-is-cyber-threat-management
+- https://www.ncsc.gov.uk/collection/10-steps
+- https://www.ncsc.gov.uk/collection/10-steps/risk-management
+- https://www.ncsc.gov.uk/collection/10-steps/vulnerability-management
+- https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
+- https://www.ibm.com/topics/threat-management
+- https://www.ncsc.gov.uk/collection/board-toolkit/risk-management-for-cyber-security
+
