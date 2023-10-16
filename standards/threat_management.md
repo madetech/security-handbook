@@ -114,5 +114,52 @@ Communicating and documenting your risks
 [NCSC REF](https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-managemaent-method)
 
 ## Protect
+Apply appropriate security controls and mitigations (consider following areas)
+### “Architecture and configuration
+- Understand what you are building and why
+- Make systems easy to maintain and update
+- Make compromise and disruption difficult
+- Safely develop and manage systems
+### Vulnerability management
+- Keep your systems updated
+- Develop a vulnerability management process
+- Manage legacy equipment
+### Identity and access management
+- Develop appropriate identity and access management policies and processes
+- Consider multi-factor authentication for all user accounts
+- Use MFA and other mitigations for privileged accounts \
+  Review user accounts and systems for unnecessary privileges on a regular basis, and ensure privileged accesses are revoked when no longer required.
+### Data security
+- Protect data in accordance with the risks
+- Securely sanitise storage media when no longer needed for its designated purpose
+### Logging and monitoring
+- Understand your objectives for logging and monitoring
+- Make sure your logs are available for analysis when you need them”
+
+[NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
+
+
 ## Detect
+### "Architecture and configuration
+- Make it easy to detect and investigate compromises
+### Identity and access management
+- Employ security monitoring to detect potential malicious behaviour
+### Logging and monitoring
+- Make sure your logs are available for analysis when you need them
+- Protect your logs from tampering so that [it is] hard for an attacker to hide their tracks and you can be confident that they accurately represent what has happened.”
+
+[NCSC Make compromise detection easier](https://www.ncsc.gov.uk/collection/cyber-security-design-principles/making-compromise-detection-easier)
+
 ## Respond
+### Architecture and configuration
+- Reduce the impact of compromise
+### Data security
+- Backup your data
+### Logging and monitoring
+- Use your logs to generate useful insights
+- Develop an incident response plan
+- Stay informed \
+Make use of threat intelligence. Sign up to the Cyber Security Information Sharing Partnership CiSP to receive and share threat information and indicators of compromise with industry and government counterparts.
+
+[NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
+
