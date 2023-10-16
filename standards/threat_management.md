@@ -58,6 +58,29 @@ Communicating and documenting your risks
 - https://www.ncsc.gov.uk/collection/10-steps/risk-management\
 - https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
 
+### Risk Assessment
+1. Define a scope for your risk assessment
+“The scope of assessment should define the boundaries of the existing system you are assessing or the new system that is being built, and your scope should clearly define all the assets that are to be contained within it”
+Also consider modelling the system scope with a scoping diagram.
+
+2. Understand your assets and assess impact
+“To help with this you could build a register of assets that could include (for example) the equipment, systems, services, software, information and/or processes that are critical to the successful delivery of your business objectives.”
+Once you have identified a list “you should (. . .) assess what the impact would be should those assets be, in some way, compromised. “
+
+“An asset register might look something like the following table where assets and their ownership are clearly identified along with an assessment and rating of impacts.”
+| Asset ID | Description             | Impact Assessment                                                           | Impact Rating |
+|----------|-------------------------|-----------------------------------------------------------------------------|---------------|
+| 0001     | IP designs and property | Loss of designs and property would result in loss of competitive advantage  |  High         | 
+
+3. Assess the threat
+“You should seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why.”
+
+4. Assess your vulnerability
+“Seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why”
+“Build an understanding of how threats might attack you and the tactics and techniques they might use against your organisation and the things you are trying to protect. 
+(...) Vulnerabilities can exist in people, processes, places and technology and these vulnerabilities may be exploited by threat actors to achieve their aims and objectives.”
+
+“If you are not sure how to document your vulnerability analysis or have no means to rate one vulnerability against another then you could consider making use of a simple 3x3 matrix where threat exposure, exploitability, and the vulnerability itself are scored on a simple Low to High scale.”
 
 
 ## Protect
