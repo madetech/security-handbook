@@ -26,3 +26,4 @@
 
 ## ⚒️ Principles, Processes, Standards and Tools
 - [DevSecOps](standards/dev_sec_ops.md)
+- [Threat Management](standards/threat_management.md) 
