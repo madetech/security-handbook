@@ -1,5 +1,7 @@
 # Threat Management Guidance
 
+A series of checkpoints have been created in a [document here](https://docs.google.com/document/d/10OPig5LFZLqQ1UB68HUYzokrlNh8iw0jeW2JOuNQ9mY/edit?usp=sharing) (Made Tech only) that can be used to gauge progress through the following content whilst carrying out an assessment.
+
 ## Threat management
 “Many modern threat management systems use the cybersecurity framework established by the National Institute of Standards and Technology (NIST). NIST provides comprehensive guidance to improve information security and cybersecurity risk management for private sector organizations. One of their guides, the NIST Cybersecurity Framework (NIST CF), consists of standards and best practices. Five primary functions make up its core structure. They are to identify, protect, detect, respond and recover.
 ### Identify
