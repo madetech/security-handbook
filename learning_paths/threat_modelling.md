@@ -38,18 +38,18 @@ Threat modelling is part of the design phase, so it should ideally be done befor
 
 - **Scope** -> determine what is the scope of the threat model (whole feature, subsystem etc)
 
-- **Draw** -> draw a simple diagram with team of whatever it is that is being threat model.
+- **Draw** -> draw a simple diagram with the team of whatever it is that is being threat modelled.
 
 - **Analyse** -> analyse the individual threats.
 
 - **Mitigation** -> how to make the threats go away.
 
-- **Document** -> write down what was discussed and found out during process.
+- **Document** -> write down what was discussed and found out during the process.
 
 #### Remember
 > Threat modelling is not an exact science; different people will come up with different potential threats.
 >
-> Threat model will never be complete; no such thing as perfect model but the process should help to expand thinking around what potential threats might be.
+> The threat model will never be complete; there is no such thing as a perfect model but the process should help to expand thinking around what potential threats might be.
 >
 > Iterative process, rinse, and repeat.
 >
