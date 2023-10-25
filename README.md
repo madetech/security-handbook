@@ -13,7 +13,7 @@
 
 
 ## 📚 Runbooks
-
+- [Threat Management Checkpoints](https://docs.google.com/document/d/10OPig5LFZLqQ1UB68HUYzokrlNh8iw0jeW2JOuNQ9mY/edit?usp=sharing)
 
 ## 🌐 Learning Resources
 - [Security Journey - Made Tech funded online training](https://madetech.securityjourney.com/)
@@ -27,4 +27,3 @@
 ## ⚒️ Principles, Processes, Standards and Tools
 - [DevSecOps](standards/dev_sec_ops.md)
 - [Threat Management Approaches](standards/threat_management.md)
-- [Threat Management Checklist](https://docs.google.com/document/d/10OPig5LFZLqQ1UB68HUYzokrlNh8iw0jeW2JOuNQ9mY/edit?usp=sharing)
