@@ -16,8 +16,8 @@
 
 
 ## 🌐 Learning Resources
+- [Security Journey - Made Tech funded online training](https://madetech.securityjourney.com/)
 - [Secure development and deployment guidance](https://www.ncsc.gov.uk/collection/developers-collection)
-- [Security Journey](https://madetech.securityjourney.com/)
 - [NCSC - Secure by Default](https://www.ncsc.gov.uk/information/secure-default)
 - [The cloud security principles - NCSC.GOV.UK ](https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles)
 - [Bow Ties and Attack Trees for Risk](https://www.2t-security.com/bow-ties-and-attack-trees-for-risk/)
