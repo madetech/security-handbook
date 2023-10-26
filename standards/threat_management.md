@@ -58,7 +58,7 @@ Communicating and documenting your risks
 
 - https://www.ncsc.gov.uk/collection/10-steps/risk-management\
 - https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
-- 
+  
 ### Risk Assessment
 #### 1. Define a scope for your risk assessment \
 “The scope of assessment should define the boundaries of the existing system you are assessing or the new system that is being built, and your scope should clearly define all the assets that are to be contained within it”
