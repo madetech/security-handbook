@@ -60,13 +60,13 @@ https://www.ncsc.gov.uk/collection/10-steps/risk-management \
 https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
   
 ### Risk Assessment
-#### 1. Define a scope for your risk assessment \
+#### 1. Define a scope for your risk assessment
 “The scope of assessment should define the boundaries of the existing system you are assessing or the new system that is being built, and your scope should clearly define all the assets that are to be contained within it”
 Also consider modelling the system scope with a scoping diagram.
 
 ![Scoping Diagram](./images/scoping_diagram.png)
 
-#### 2. Understand your assets and assess impact \
+#### 2. Understand your assets and assess impact
 “To help with this you could build a register of assets that could include (for example) the equipment, systems, services, software, information and/or processes that are critical to the successful delivery of your business objectives.”
 Once you have identified a list “you should (. . .) assess what the impact would be should those assets be, in some way, compromised. “
 
@@ -75,11 +75,11 @@ Once you have identified a list “you should (. . .) assess what the impact wou
 |----------|-------------------------|-----------------------------------------------------------------------------|---------------|
 | 0001     | IP designs and property | Loss of designs and property would result in loss of competitive advantage  |  High         | 
 
-#### 3. Assess the threat \
+#### 3. Assess the threat
 “You should seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why.” \
 See also : [Threat Modelling](../learning_paths/threat_modelling.md)
 
-#### 4. Assess your vulnerability \
+#### 4. Assess your vulnerability
 “Seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why”
 “Build an understanding of how threats might attack you and the tactics and techniques they might use against your organisation and the things you are trying to protect. 
 (...) Vulnerabilities can exist in people, processes, places and technology and these vulnerabilities may be exploited by threat actors to achieve their aims and objectives.”
@@ -88,13 +88,13 @@ See also : [Threat Modelling](../learning_paths/threat_modelling.md)
 
 ![Vulnerability Analysis Diagram](./images/vulnerability_analysis.png)
 
-#### 5. Estimate likelihood \
+#### 5. Estimate likelihood
 “Combine your analysis of threat and vulnerability in some way to arrive at an assessment of how likely it is that a particular threat would make use of a particular tactic or technique to exploit a vulnerability to achieve their aims and objectives, and thereby causing an impact to occur.”
 “A simple way to document and analyse likelihood in this context is to use a matrix as shown below where threat and vulnerability ratings, along with likelihood are scored and expressed on a simple Low to High scale.”
 
 ![Likelihood Analysis Diagram](./images/likelihood_analysis.png)
 
-#### 6. Assess cyber security risk \
+#### 6. Assess cyber security risk
 “A cyber security risk is a future event, related to the use of technology systems and services, that might have some form of impact on someone, a system, a business, or an organisation.” 
 Communicating and documenting your risks
 “When describing risks to decision makers it is important that you communicate to them the certainty or uncertainty surrounding your analysis. Not to do so would communicate to decision makers that you are completely certain that a risk would be realised as you describe.”
@@ -104,7 +104,7 @@ Communicating and documenting your risks
 
 ![Prioritsed Risks Diagram](./images/prioritised_risks.png)
 
-#### 8. Develop a risk treatment plan \
+#### 8. Develop a risk treatment plan
 “Where you have recommended that cyber security risk be treated using technical or non-technical controls, it is necessary to document and describe those controls, providing as far as possible guidance and information on how they could/should be implemented. 
 (. . .) a basic treatment plan may look something like this:“
 
