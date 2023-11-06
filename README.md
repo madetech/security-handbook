@@ -14,6 +14,7 @@
 
 ## 📚 Runbooks
 - [Threat Management Checkpoints](https://docs.google.com/document/d/10OPig5LFZLqQ1UB68HUYzokrlNh8iw0jeW2JOuNQ9mY/edit?usp=sharing)
+- [Cloud Service Checkpoints](https://docs.google.com/document/d/1QKoROm68BQFwPWlXCKabHTFHZrS_JGp-Cup53_pg5RM/edit?usp=sharing)
 
 ## 🌐 Learning Resources
 - [Security Journey - Made Tech funded online training](https://madetech.securityjourney.com/)
