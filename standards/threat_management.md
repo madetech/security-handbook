@@ -162,14 +162,13 @@ Make use of threat intelligence. Sign up to the Cyber Security Information Shari
 [NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
 
 ## Reference links
-- https://attack.mitre.org/
-- https://www.ncsc.gov.uk/guidance/preventing-lateral-movement
-- https://www.ncsc.gov.uk/blog-post/what-exactly-should-we-be-logging
-- https://www.ncsc.gov.uk/guidance/preventing-lateral-movement
-- https://www.itgovernance.co.uk/blog/what-is-cyber-threat-management
-- https://www.ncsc.gov.uk/collection/10-steps
-- https://www.ncsc.gov.uk/collection/10-steps/risk-management
-- https://www.ncsc.gov.uk/collection/10-steps/vulnerability-management
-- https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method
-- https://www.ibm.com/topics/threat-management
-- https://www.ncsc.gov.uk/collection/board-toolkit/risk-management-for-cyber-security
+- [attack.mitre.org](https://attack.mitre.org)
+- [NCSC - preventing-lateral-movement](https://www.ncsc.gov.uk/guidance/preventing-lateral-movement)
+- [NCSC - what-exactly-should-we-be-logging](https://www.ncsc.gov.uk/blog-post/what-exactly-should-we-be-logging)
+- [what-is-cyber-threat-management](https://www.itgovernance.co.uk/blog/what-is-cyber-threat-management)
+- [NCSC - 10 Steps](https://www.ncsc.gov.uk/collection/10-steps)
+- [NCSC - Risk Management](https://www.ncsc.gov.uk/collection/10-steps/risk-management)
+- [NCSC - Vulnerability Management](https://www.ncsc.gov.uk/collection/10-steps/vulnerability-management)
+- [NCSC - a-basic-risk-assessment-and-management-method](https://www.ncsc.gov.uk/collection/risk-management/a-basic-risk-assessment-and-management-method)
+- [IBM - Threat Management](https://www.ibm.com/topics/threat-management)
+- [NCSC -risk-management-for-cyber-security](https://www.ncsc.gov.uk/collection/board-toolkit/risk-management-for-cyber-security)
