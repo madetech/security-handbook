@@ -29,3 +29,4 @@
 ## ⚒️ Principles, Processes, Standards and Tools
 - [DevSecOps](standards/dev_sec_ops.md)
 - [Threat Management Approaches](standards/threat_management.md)
+- [CIS 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
