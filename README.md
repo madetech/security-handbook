@@ -10,7 +10,7 @@
 ## 🗣️ Security COP talks (Made Tech internal only videos)
 - [A Cyber Security showcase by Arnie Armstrong](https://drive.google.com/file/d/1QOXis-2hGmafHxZ4VoQ3ni_qBKlh2O5N/view?usp=drive_link)
 - [Live demonstration of hacking challenge by Arnie Armstrong](https://drive.google.com/file/d/1E-c3nn8ROS5jB0ZAGHBMDZ1k7WyMNMsX/view?usp=drive_link)
-- [Security Assurance Across Government by Reuben Hilyer]([https://docs.google.com/presentation/d/1lSuIpnreSQg-LYiEfc1IYgTO0ZaQkEqROu4uMjtV3iA/edit?usp=drive_link](https://drive.google.com/file/d/1BfUJVJSYhHrvd7VSMb90B17Tm5xdMYOK/view?usp=drive_link)), [Deck](https://docs.google.com/presentation/d/1lSuIpnreSQg-LYiEfc1IYgTO0ZaQkEqROu4uMjtV3iA/edit?usp=drive_link)
+- [Security Assurance Across Government by Reuben Hilyer](https://drive.google.com/file/d/1BfUJVJSYhHrvd7VSMb90B17Tm5xdMYOK/view?usp=drive_link), [Deck](https://docs.google.com/presentation/d/1lSuIpnreSQg-LYiEfc1IYgTO0ZaQkEqROu4uMjtV3iA/edit?usp=drive_link)
 
 
 ## 📚 Runbooks
