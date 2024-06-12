@@ -86,7 +86,8 @@ Once you have identified a list “you should (. . .) assess what the impact wou
 | 0001     | IP designs and property | Loss of designs and property would result in loss of competitive advantage  |  High         | 
 
 #### 3. Assess the threat
-“You should seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why.” \
+“You should seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why.”
+
 See also : [Threat Modelling](../learning_paths/threat_modelling.md)
 
 #### 4. Assess your vulnerability
