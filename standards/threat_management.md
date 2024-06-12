@@ -154,7 +154,7 @@ Apply appropriate security controls and mitigations (consider following areas)
 [NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
 
 ## Detect
-### "Architecture and configuration
+### Architecture and configuration
 - Make it easy to detect and investigate compromises
 
 ### Identity and access management
