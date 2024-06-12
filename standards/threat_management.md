@@ -94,8 +94,10 @@ See also : [Threat Modelling](../learning_paths/threat_modelling.md)
 
 #### 4. Assess your vulnerability
 “Seek out authoritative sources of threat information that can help you understand who might seek to do you and your organisation harm, and why”
+
 “Build an understanding of how threats might attack you and the tactics and techniques they might use against your organisation and the things you are trying to protect. 
-(...) Vulnerabilities can exist in people, processes, places and technology and these vulnerabilities may be exploited by threat actors to achieve their aims and objectives.”
+
+“Vulnerabilities can exist in people, processes, places and technology and these vulnerabilities may be exploited by threat actors to achieve their aims and objectives.”
 
 “If you are not sure how to document your vulnerability analysis or have no means to rate one vulnerability against another then you could consider making use of a simple 3x3 matrix where threat exposure, exploitability, and the vulnerability itself are scored on a simple Low to High scale.”
 
@@ -103,23 +105,25 @@ See also : [Threat Modelling](../learning_paths/threat_modelling.md)
 
 #### 5. Estimate likelihood
 “Combine your analysis of threat and vulnerability in some way to arrive at an assessment of how likely it is that a particular threat would make use of a particular tactic or technique to exploit a vulnerability to achieve their aims and objectives, and thereby causing an impact to occur.”
+
 “A simple way to document and analyse likelihood in this context is to use a matrix as shown below where threat and vulnerability ratings, along with likelihood are scored and expressed on a simple Low to High scale.”
 
 ![Likelihood Analysis Diagram](./images/likelihood_analysis.png)
 
 #### 6. Assess cyber security risk
-“A cyber security risk is a future event, related to the use of technology systems and services, that might have some form of impact on someone, a system, a business, or an organisation.” 
-Communicating and documenting your risks
-“When describing risks to decision makers it is important that you communicate to them the certainty or uncertainty surrounding your analysis. Not to do so would communicate to decision makers that you are completely certain that a risk would be realised as you describe.”
-7. Prioritise risks and propose risk management action \
+“A cyber security risk is a future event, related to the use of technology systems and services, that might have some form of impact on someone, a system, a business, or an organisation.”
+
+Communicating and documenting your risks - “When describing risks to decision makers it is important that you communicate to them the certainty or uncertainty surrounding your analysis. Not to do so would communicate to decision makers that you are completely certain that a risk would be realised as you describe.”
+
+#### 7. Prioritise risks and propose risk management action
 “During this step you should review the whole set of risks you came up with during the previous steps and prioritise them for risk management.
- See below a table that illustrates how a prioritised list of risks might be presented.”
+
+See below a table that illustrates how a prioritised list of risks might be presented.”
 
 ![Prioritsed Risks Diagram](./images/prioritised_risks.png)
 
 #### 8. Develop a risk treatment plan
-“Where you have recommended that cyber security risk be treated using technical or non-technical controls, it is necessary to document and describe those controls, providing as far as possible guidance and information on how they could/should be implemented. 
-(. . .) a basic treatment plan may look something like this:“
+“Where you have recommended that cyber security risk be treated using technical or non-technical controls, it is necessary to document and describe those controls, providing as far as possible guidance and information on how they could/should be implemented, a basic treatment plan may look something like this:“
 
 ![Risk Treatment Plan Diagram](./images/risk_treatment_plan.png)
 
