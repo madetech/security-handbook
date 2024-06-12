@@ -169,12 +169,15 @@ Apply appropriate security controls and mitigations (consider following areas)
 ## Respond
 ### Architecture and configuration
 - Reduce the impact of compromise
+  
 ### Data security
 - Backup your data
+  
 ### Logging and monitoring
 - Use your logs to generate useful insights
 - Develop an incident response plan
-- Stay informed \
+- Stay informed
+
 Make use of threat intelligence. Sign up to the Cyber Security Information Sharing Partnership CiSP to receive and share threat information and indicators of compromise with industry and government counterparts.
 
 [NCSC 10 steps to security](https://www.ncsc.gov.uk/collection/10-steps/)
