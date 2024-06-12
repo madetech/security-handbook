@@ -12,7 +12,9 @@ The protect function covers much of the technical and physical security controls
 ### Detect
 The detect function implements measures that alert an organization to cyberattacks. Detect categories include anomalies and events, continuous security monitoring and early detection processes.
 ### Respond
-The respond function ensures an appropriate response to cyberattacks and other cybersecurity events. Categories include response planning, communications, analysis, mitigation and improvements.“ [https://www.ibm.com/topics/threat-management](https://www.ibm.com/topics/threat-management)
+The respond function ensures an appropriate response to cyberattacks and other cybersecurity events. Categories include response planning, communications, analysis, mitigation and improvements.
+
+See also: [https://www.ibm.com/topics/threat-management](https://www.ibm.com/topics/threat-management)
 
 ## Identify
 ### Risk Management
