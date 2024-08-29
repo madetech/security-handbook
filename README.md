@@ -12,6 +12,8 @@
 - [Live demonstration of hacking challenge by Arnie Armstrong](https://drive.google.com/file/d/1E-c3nn8ROS5jB0ZAGHBMDZ1k7WyMNMsX/view?usp=drive_link)
 - [Security Assurance Across Government by Reuben Hilyer](https://drive.google.com/file/d/1BfUJVJSYhHrvd7VSMb90B17Tm5xdMYOK/view?usp=drive_link), [Deck](https://docs.google.com/presentation/d/1lSuIpnreSQg-LYiEfc1IYgTO0ZaQkEqROu4uMjtV3iA/edit?usp=drive_link)
 
+## 🌐 Our Blogs
+- [Is your technical architecture driving the right outcomes](https://www.madetech.com/blog/is-your-technical-architecture-driving-the-right-outcomes/?utm_content=305104948&utm_medium=social&utm_source=linkedin&hss_channel=lcp-276725)
 
 ## 📚 Runbooks
 - [Threat Management Checkpoints](https://docs.google.com/document/d/10OPig5LFZLqQ1UB68HUYzokrlNh8iw0jeW2JOuNQ9mY/edit?usp=sharing)
