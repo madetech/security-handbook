@@ -34,4 +34,4 @@
 - [Threat Management Approaches](standards/threat_management.md)
 - [CIS 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 - [Risk Assessment template document](https://docs.google.com/document/d/1MqoJB2XPtNwc2ilV8jIW-P07qnAXQldMRBDrzU2Ap48/edit?usp=sharing)
-- [Threat Modeling MIRO Template](https://miro.com/app/board/uXjVL27r0TY=/)
+- [Threat Modeling MIRO Template](https://miro.com/app/board/uXjVJdRvOfI=/)
