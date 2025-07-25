@@ -1,4 +1,3 @@
-````markdown
 # 🛡️ Recommended DevSecOps Pipeline Tools
 
 DevSecOps integrates security into the DevOps process, ensuring vulnerabilities are detected and mitigated early in the development lifecycle. Below are recommended tools for securing code, dependencies, containers, and APIs.
