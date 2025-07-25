@@ -31,7 +31,8 @@
 - [Intro to threat modelling by Lawrence Goldstein](https://docs.google.com/presentation/d/131kbL6icdycy7Ee-E5CfIil6OLrAOJ922O9e__ss-Fw/edit#slide=id.gc07cbd5c3a_0_0)
 
 ## ⚒️ Principles, Processes, Standards and Tools
-- [DevSecOps](standards/dev_sec_ops.md)
+- [DevSecOps Approach](standards/dev_sec_ops.md)
+- [DevSecOps Pipeline Tools](standards/dev_sec_ops_tools.md)
 - [Threat Management Approaches](standards/threat_management.md)
 - [CIS 18 Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
 - [Risk Assessment template document](https://docs.google.com/document/d/1MqoJB2XPtNwc2ilV8jIW-P07qnAXQldMRBDrzU2Ap48/edit?usp=sharing)
